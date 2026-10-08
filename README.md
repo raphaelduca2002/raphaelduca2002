@@ -3,7 +3,13 @@ Sou aluno de Análise e Desenvolvimento de Sistemas na instituição ETEC.
 
 # Tecnologias e Ferramentas
 Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
-<div style="display:flex; align-items:center">
+<style>
+  div {
+    display: flex;
+    align-items: center;
+  }
+</style>
+<div>
   <img src="assets/html.png" width="100">
   <img src="assets/css.png" width="100">
   <img src="assets/javascript.png" width="50">
