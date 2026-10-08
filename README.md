@@ -4,7 +4,7 @@ Sou aluno de Análise e Desenvolvimento de Sistemas na instituição ETEC.
 # Tecnologias e Ferramentas
 Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 <div>
-  <img src="assets/html.png" width="400">
+  <img src="assets/html.png" width="100">
 </div>
 
 
