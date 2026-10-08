@@ -1,4 +1,9 @@
-## Hi there 👋
+# Olá, meu nome é Raphael.
+Sou aluno de Análise e Desenvolvimento de Sistemas na instituição ETEC.
+
+# Tecnologias e Ferramentas
+Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
+
 
 <!--
 **raphaelduca2002/raphaelduca2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
