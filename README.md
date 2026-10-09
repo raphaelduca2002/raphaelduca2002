@@ -3,7 +3,12 @@ Sou aluno de Análise e Desenvolvimento de Sistemas na instituição ETEC.
 
 # Tecnologias e Ferramentas
 Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
-<div align="left">
+<div style ="
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;">
   <img src="https://camo.githubusercontent.com/9126ea765f2675933491c3919c77fd441105a28b04848b7f8b9b6a83b3b755e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" width="60" alt="html">
   <img src="https://camo.githubusercontent.com/1835da36dd95f3f0948730ae4479b6279d6f114265a46b863dcf1fb79fd703ec/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" width="60" alt="css">
   <img src="https://camo.githubusercontent.com/df22f0f6e92a3c220bef13f20ead5619cb1e4162fa275feb64eb43d60b9fb0ff/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" width="60" alt="javascript">
