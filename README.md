@@ -1,5 +1,6 @@
 # Olá, meu nome é Raphael.
 Sou aluno de Análise e Desenvolvimento de Sistemas na instituição ETEC.
+Meu objetivo é me tornar um Desenvolvedor front-end.
 
 # Tecnologias e Ferramentas
 Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
